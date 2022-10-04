@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gophers-forumcleaner:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-10-04T11:48:10.943675281+02:00"
+    description: A Helm chart for Kubernetes
+    digest: cb6f14069c534b1cce41a437b6e1509f3289735cfda7d83cd6b0f27cef7099cf
+    name: gophers-forumcleaner
+    type: application
+    urls:
+    - https://github.com/svenwiltink/helm-charts/releases/download/gophers-forumcleaner-0.1.1/gophers-forumcleaner-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-10-04T11:48:10.943685753+02:00"
